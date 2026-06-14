@@ -2,7 +2,7 @@
 This project is part of a Virtual Internship on Power BI with PwC Switzerland, offered through the Data Analytics Virtual Case Experience by Forage.
 # Problem Statement
 Claire, the Call Centre Manager at PhoneNow, is seeking an efficient and comprehensive method to gain transparency and insights into key performance metrics of the Call Centre. These metrics include total calls answered and abandoned, speed of answer, call duration, and overall customer satisfaction. She is specifically interested in understanding long-term trends related to both customer and agent behaviors. The goal is to have a dashboard that accurately visualizes this data to facilitate discussions with management and improve decision-making. The dashboard should highlight critical aspects of the Call Centre's performance in a clear and actionable format.
-
+ 
 # Dataset Overview
 The dataset contains call records with details on call performance and customer satisfaction. It includes various columns providing insights into the call topics, agents, call handling efficiency, and customer feedback.
 
